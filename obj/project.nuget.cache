@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fpfDbzKgxX8NAWIhUrjzoV366r0f4EhKfHzKut2rbkwIyaR2djI5Eulj9XchbrNUe7xan++2X0I6312FomKiGg==",
+  "success": true,
+  "projectFilePath": "/home/armin/code/EightQueens/EightQueens.csproj",
+  "expectedPackageFiles": [
+    "/home/armin/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

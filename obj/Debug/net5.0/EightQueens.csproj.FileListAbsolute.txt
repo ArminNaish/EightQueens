@@ -1,0 +1,16 @@
+/home/armin/code/EightQueens/bin/Debug/net5.0/EightQueens
+/home/armin/code/EightQueens/bin/Debug/net5.0/EightQueens.deps.json
+/home/armin/code/EightQueens/bin/Debug/net5.0/EightQueens.runtimeconfig.json
+/home/armin/code/EightQueens/bin/Debug/net5.0/EightQueens.runtimeconfig.dev.json
+/home/armin/code/EightQueens/bin/Debug/net5.0/EightQueens.dll
+/home/armin/code/EightQueens/bin/Debug/net5.0/ref/EightQueens.dll
+/home/armin/code/EightQueens/bin/Debug/net5.0/EightQueens.pdb
+/home/armin/code/EightQueens/obj/Debug/net5.0/EightQueens.csprojAssemblyReference.cache
+/home/armin/code/EightQueens/obj/Debug/net5.0/EightQueens.GeneratedMSBuildEditorConfig.editorconfig
+/home/armin/code/EightQueens/obj/Debug/net5.0/EightQueens.AssemblyInfoInputs.cache
+/home/armin/code/EightQueens/obj/Debug/net5.0/EightQueens.AssemblyInfo.cs
+/home/armin/code/EightQueens/obj/Debug/net5.0/EightQueens.csproj.CoreCompileInputs.cache
+/home/armin/code/EightQueens/obj/Debug/net5.0/EightQueens.dll
+/home/armin/code/EightQueens/obj/Debug/net5.0/ref/EightQueens.dll
+/home/armin/code/EightQueens/obj/Debug/net5.0/EightQueens.pdb
+/home/armin/code/EightQueens/obj/Debug/net5.0/EightQueens.genruntimeconfig.cache
